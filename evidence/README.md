@@ -20,8 +20,7 @@ Original artifacts were reviewed privately. Public entries link to the resulting
 | step_11 | 1 | Additional packaging context | Not independent proof of compromise |
 | Notion: Secure File Transfer Lab Notes | — | Transfer workflow and control-channel decryption | Data-channel decryption not established |
 | Notion: Tooling | — | Python proxy project narrative | Repeated text deduplicated; code not supplied |
-| Existing public homelab implementation records | — | Infrastructure, AI and monitoring case studies | Milestones distinguished from current open work |
 
 Uploaded filenames include duplicate-download suffixes such as `(1)`. Those suffixes do not denote distinct experiments. Dates embedded in screenshots take precedence over assumptions from assignment filenames; exact dates are omitted where the material does not establish them.
 
-Private Notion page identifiers and download URLs are not published. The root README and project pages link only the existing public homelab records and official training references.
+Private Notion page identifiers and download URLs are not published. Web-security case studies link the official training exercises.

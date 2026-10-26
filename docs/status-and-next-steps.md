@@ -12,9 +12,5 @@ Reviewed October 26, 2026.
 | Metasploitable | Root-shell connection demonstrated | Retain a structured finding and safe validation record |
 | Windows endpoint lab | Detection and later shell session observed | Correlate exact sample, endpoint state, process and network events |
 | Python proxy | Narrative only in reviewed material | Recover original source, document boundaries and add reproducible tests |
-| AI platform | Core deployment/monitoring milestone complete | Track subsequent access changes separately; validate off-host recovery |
-| Network migration | Gateway and selected networks/workloads moved | Finish management/server migration and revalidate policies |
-| Automation | Dedicated control node and IaC workflows implemented | Reconcile current drift and review host-side sudo scope |
-| Backups | Local package rollback documented | Design independent backups and test full recovery; review secret exposure |
 
-No AWX deployment, complete network migration, deployed enterprise SIEM, unconfirmed certificate or planned degree is presented as an accomplished project here.
+The record distinguishes completed exercises, unconfirmed results and proposed retests. Course exposure does not establish a deployed enterprise SIEM, a professional engagement or an earned certification.

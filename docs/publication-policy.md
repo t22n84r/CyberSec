@@ -2,7 +2,7 @@
 
 [Back to portfolio](../README.md)
 
-This repository documents authorized training and independent homelab work. It does not report testing against employers, clients or unrelated systems.
+This repository documents authorized cybersecurity training, lab exercises and independent security-tooling work. It does not report testing against employers, clients or unrelated systems.
 
 ## Evidence labels
 
